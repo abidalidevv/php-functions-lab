@@ -109,3 +109,4 @@
 // Add error logging - 2021-10-29 10:06:00
 // Fix cookie security flags - 2023-05-28 10:02:00
 // Fix redirect handling - 2024-12-08 10:12:00
+// Add config validation - 2017-06-25 10:08:00
