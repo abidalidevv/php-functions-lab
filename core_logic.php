@@ -6,3 +6,4 @@
 // Improve form request - 2021-09-29 10:12:00
 // Improve password hashing - 2023-10-18 10:08:00
 // Improve response formatting - 2022-05-06 10:04:00
+// Add database transactions - 2017-08-01 10:00:00
