@@ -238,3 +238,4 @@
 // Improve input validation - 2021-09-08 10:08:00
 // Improve response formatting - 2024-11-27 10:04:00
 // Fix PHP 8 compatibility - 2018-07-10 10:00:00
+// Improve file upload validation - 2017-09-04 10:10:00
