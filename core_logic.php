@@ -240,3 +240,4 @@
 // Fix PHP 8 compatibility - 2018-07-10 10:00:00
 // Improve file upload validation - 2017-09-04 10:10:00
 // Refactor event listeners - 2021-07-16 10:06:00
+// Fix type coercion bug - 2018-07-09 10:02:00
