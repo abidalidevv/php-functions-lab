@@ -161,3 +161,4 @@
 // Add eloquent relationship - 2022-04-15 10:08:00
 // Fix PHP 8 compatibility - 2021-06-20 10:04:00
 // Improve caching strategy - 2024-08-14 10:00:00
+// Add CSRF protection - 2019-06-19 10:10:00
