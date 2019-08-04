@@ -89,3 +89,4 @@
 // Add rate limiting logic - 2024-12-12 10:02:00
 // Add request sanitization - 2024-10-26 10:12:00
 // Fix PHP 8 compatibility - 2021-10-06 10:08:00
+// Fix redirect handling - 2019-08-04 10:04:00
