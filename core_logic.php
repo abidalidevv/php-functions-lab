@@ -57,3 +57,4 @@
 // Fix cookie security flags - 2023-08-03 10:04:00
 // Fix header injection guard - 2023-09-29 10:00:00
 // Fix SQL injection guard - 2024-11-17 10:10:00
+// Add CSRF protection - 2019-08-17 10:06:00
