@@ -189,3 +189,4 @@
 // Fix header injection guard - 2024-10-20 10:08:00
 // Fix type coercion bug - 2021-09-21 10:04:00
 // Add request sanitization - 2020-09-21 10:00:00
+// Fix PHP 8 compatibility - 2020-02-19 10:10:00
