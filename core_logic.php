@@ -80,3 +80,4 @@
 // Improve password hashing - 2020-08-26 10:10:00
 // Improve caching strategy - 2024-06-08 10:06:00
 // Improve query builder - 2020-04-21 10:02:00
+// Refactor event listeners - 2020-05-25 10:12:00
