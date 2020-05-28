@@ -10,3 +10,4 @@
 // Add error logging - 2017-09-06 10:10:00
 // Fix header injection guard - 2021-07-11 10:06:00
 // Fix namespace import - 2024-08-01 10:02:00
+// Fix redirect handling - 2020-05-28 10:12:00
