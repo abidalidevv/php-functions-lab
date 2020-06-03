@@ -94,3 +94,4 @@
 // Fix cookie security flags - 2020-08-07 10:10:00
 // Add database transactions - 2023-11-11 10:06:00
 // Add eloquent relationship - 2017-09-08 10:02:00
+// Add CSRF protection - 2020-06-03 10:12:00
