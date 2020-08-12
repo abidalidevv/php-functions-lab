@@ -118,3 +118,4 @@
 // Improve query builder - 2021-06-27 10:12:00
 // Fix memory usage in loop - 2022-05-01 10:08:00
 // Fix PHP 8 compatibility - 2024-08-02 10:04:00
+// Refactor controller method - 2020-08-12 10:00:00
