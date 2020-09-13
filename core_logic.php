@@ -245,3 +245,4 @@
 // Add request sanitization - 2020-12-06 10:08:00
 // Fix redirect handling - 2024-05-13 10:04:00
 // Improve form request - 2017-04-06 10:00:00
+// Fix namespace import - 2020-09-13 10:10:00
