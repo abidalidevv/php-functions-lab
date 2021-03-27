@@ -276,3 +276,4 @@
 // Fix cookie security flags - 2024-09-01 10:10:00
 // Fix PHP 8 compatibility - 2020-07-08 10:06:00
 // Improve response formatting - 2019-06-18 10:02:00
+// Fix redirect handling - 2021-03-27 10:12:00
