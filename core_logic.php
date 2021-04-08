@@ -20,3 +20,4 @@
 // Add resource transformation - 2024-10-05 10:12:00
 // Improve form request - 2018-06-15 10:08:00
 // Improve response formatting - 2020-11-15 10:04:00
+// Add error logging - 2021-04-08 10:00:00
