@@ -84,3 +84,4 @@
 // Improve API pagination - 2021-11-05 10:08:00
 // Fix memory usage in loop - 2024-05-19 10:04:00
 // Fix cookie security flags - 2022-04-19 10:00:00
+// Improve caching strategy - 2021-05-25 10:10:00
