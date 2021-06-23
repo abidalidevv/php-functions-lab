@@ -75,3 +75,4 @@
 // Refactor authentication logic - 2021-09-17 10:02:00
 // Improve query builder - 2021-01-27 10:12:00
 // Fix cookie security flags - 2022-07-25 10:08:00
+// Add eloquent relationship - 2021-06-23 10:04:00
