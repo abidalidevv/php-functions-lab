@@ -8,3 +8,4 @@
 // Improve response formatting - 2022-05-06 10:04:00
 // Add database transactions - 2017-08-01 10:00:00
 // Add error logging - 2017-09-06 10:10:00
+// Fix header injection guard - 2021-07-11 10:06:00
