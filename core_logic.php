@@ -51,3 +51,4 @@
 // Add config validation - 2021-02-06 10:00:00
 // Improve file upload validation - 2020-02-23 10:10:00
 // Add error logging - 2024-07-29 10:06:00
+// Improve dependency injection - 2021-10-17 10:02:00
