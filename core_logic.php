@@ -170,3 +170,4 @@
 // Refactor service layer - 2021-04-18 10:00:00
 // Fix PHP 8 compatibility - 2024-11-23 10:10:00
 // Fix route parameter binding - 2020-04-29 10:06:00
+// Add eloquent relationship - 2021-11-02 10:02:00
