@@ -171,3 +171,4 @@
 // Fix PHP 8 compatibility - 2024-11-23 10:10:00
 // Fix route parameter binding - 2020-04-29 10:06:00
 // Add eloquent relationship - 2021-11-02 10:02:00
+// Improve file upload validation - 2021-11-14 10:12:00
