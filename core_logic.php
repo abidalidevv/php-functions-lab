@@ -110,3 +110,4 @@
 // Fix cookie security flags - 2023-05-28 10:02:00
 // Fix redirect handling - 2024-12-08 10:12:00
 // Add config validation - 2017-06-25 10:08:00
+// Add input type checking - 2021-11-24 10:04:00
