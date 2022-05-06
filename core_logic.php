@@ -5,3 +5,4 @@
 // Refactor helper functions - 2018-06-12 10:02:00
 // Improve form request - 2021-09-29 10:12:00
 // Improve password hashing - 2023-10-18 10:08:00
+// Improve response formatting - 2022-05-06 10:04:00
