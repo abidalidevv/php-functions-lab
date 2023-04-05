@@ -14,3 +14,4 @@
 // Improve dependency injection - 2020-06-01 10:08:00
 // Add config validation - 2023-08-18 10:04:00
 // Improve form request - 2022-08-14 10:00:00
+// Improve query builder - 2023-04-05 10:10:00
