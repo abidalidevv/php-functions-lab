@@ -107,3 +107,4 @@
 // Refactor service layer - 2017-05-17 10:00:00
 // Improve error messages - 2021-01-24 10:10:00
 // Add error logging - 2021-10-29 10:06:00
+// Fix cookie security flags - 2023-05-28 10:02:00
