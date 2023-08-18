@@ -12,3 +12,4 @@
 // Fix namespace import - 2024-08-01 10:02:00
 // Fix redirect handling - 2020-05-28 10:12:00
 // Improve dependency injection - 2020-06-01 10:08:00
+// Add config validation - 2023-08-18 10:04:00
