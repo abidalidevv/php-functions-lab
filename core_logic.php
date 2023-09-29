@@ -55,3 +55,4 @@
 // Fix session handling - 2023-03-24 10:12:00
 // Fix SQL injection guard - 2023-02-25 10:08:00
 // Fix cookie security flags - 2023-08-03 10:04:00
+// Fix header injection guard - 2023-09-29 10:00:00
