@@ -4,3 +4,4 @@
 // Fix cookie security flags - 2024-11-11 10:06:00
 // Refactor helper functions - 2018-06-12 10:02:00
 // Improve form request - 2021-09-29 10:12:00
+// Improve password hashing - 2023-10-18 10:08:00
