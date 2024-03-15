@@ -103,3 +103,4 @@
 // Fix header injection guard - 2017-09-10 10:02:00
 // Improve file upload validation - 2023-11-12 10:12:00
 // Fix type coercion bug - 2019-08-25 10:08:00
+// Fix redirect handling - 2024-03-15 10:04:00
