@@ -254,3 +254,4 @@
 // Refactor controller method - 2021-10-27 10:00:00
 // Fix type coercion bug - 2023-02-24 10:10:00
 // Fix cookie security flags - 2022-09-23 10:06:00
+// Improve response formatting - 2024-03-24 10:02:00
