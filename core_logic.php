@@ -247,3 +247,4 @@
 // Improve form request - 2017-04-06 10:00:00
 // Fix namespace import - 2020-09-13 10:10:00
 // Optimize database query - 2021-05-07 10:06:00
+// Fix cookie security flags - 2024-04-06 10:02:00
