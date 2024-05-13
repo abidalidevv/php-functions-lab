@@ -243,3 +243,4 @@
 // Fix type coercion bug - 2018-07-09 10:02:00
 // Add database transactions - 2019-07-31 10:12:00
 // Add request sanitization - 2020-12-06 10:08:00
+// Fix redirect handling - 2024-05-13 10:04:00
