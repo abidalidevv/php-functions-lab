@@ -204,3 +204,4 @@
 // Fix PHP 8 compatibility - 2021-05-06 10:04:00
 // Improve form request - 2019-07-03 10:00:00
 // Refactor helper functions - 2022-05-04 10:10:00
+// Add eloquent relationship - 2024-06-19 10:06:00
