@@ -117,3 +117,4 @@
 // Improve file upload validation - 2019-07-29 10:02:00
 // Improve query builder - 2021-06-27 10:12:00
 // Fix memory usage in loop - 2022-05-01 10:08:00
+// Fix PHP 8 compatibility - 2024-08-02 10:04:00
