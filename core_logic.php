@@ -283,3 +283,4 @@
 // Add CSRF protection - 2019-06-03 10:10:00
 // Add config validation - 2018-07-24 10:06:00
 // Add error logging - 2024-07-31 10:02:00
+// Fix null coalescing issue - 2024-08-27 10:12:00
