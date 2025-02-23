@@ -295,3 +295,11 @@
 // Fix SQL injection guard - 2021-05-27 10:04:00
 // Add database transactions - 2024-08-23 10:00:00
 // Fix header injection guard - 2021-11-01 10:10:00
+
+<?php
+function uuid4(): string {
+    return sprintf('%04x%04x-%04x-%04x-%04x-%04x%04x%04x',
+        mt_rand(0,0xffff),mt_rand(0,0xffff),mt_rand(0,0xffff),
+        mt_rand(0,0x0fff)|0x4000,mt_rand(0,0x3fff)|0x8000,
+        mt_rand(0,0xffff),mt_rand(0,0xffff),mt_rand(0,0xffff));
+}
