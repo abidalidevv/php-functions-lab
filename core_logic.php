@@ -328,3 +328,8 @@ function array_flatten(array $arr): array {
     array_walk_recursive($arr, function($v) use (&$r) { $r[] = $v; });
     return $r;
 }
+
+<?php
+function validate_email(string $email): bool {
+    return filter_var($email, FILTER_VALIDATE_EMAIL) !== false;
+}
