@@ -308,3 +308,8 @@ function uuid4(): string {
 function array_pluck(array $arr, string $key): array {
     return array_column($arr, $key);
 }
+
+<?php
+function truncate(string $str, int $len=100): string {
+    return mb_strlen($str) <= $len ? $str : mb_substr($str,0,$len).'...';
+}
