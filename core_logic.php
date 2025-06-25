@@ -394,3 +394,8 @@ function human_bytes(int $bytes): string {
     }
     return round($bytes,2).' TB';
 }
+
+<?php
+function slugify(string $text): string {
+    return preg_replace('/[^a-z0-9]+/', '-', strtolower(trim($text)));
+}
