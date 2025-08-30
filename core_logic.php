@@ -489,3 +489,8 @@ function array_flatten(array $arr): array {
 function camel_to_snake(string $str): string {
     return strtolower(preg_replace('/[A-Z]/','_$0',lcfirst($str)));
 }
+
+<?php
+function slugify(string $text): string {
+    return preg_replace('/[^a-z0-9]+/', '-', strtolower(trim($text)));
+}
