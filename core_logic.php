@@ -313,3 +313,11 @@ function array_pluck(array $arr, string $key): array {
 function truncate(string $str, int $len=100): string {
     return mb_strlen($str) <= $len ? $str : mb_substr($str,0,$len).'...';
 }
+
+<?php
+function uuid4(): string {
+    return sprintf('%04x%04x-%04x-%04x-%04x-%04x%04x%04x',
+        mt_rand(0,0xffff),mt_rand(0,0xffff),mt_rand(0,0xffff),
+        mt_rand(0,0x0fff)|0x4000,mt_rand(0,0x3fff)|0x8000,
+        mt_rand(0,0xffff),mt_rand(0,0xffff),mt_rand(0,0xffff));
+}
