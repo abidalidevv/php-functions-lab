@@ -499,3 +499,9 @@ function slugify(string $text): string {
 function camel_to_snake(string $str): string {
     return strtolower(preg_replace('/[A-Z]/','_$0',lcfirst($str)));
 }
+
+<?php
+function is_json(string $str): bool {
+    json_decode($str);
+    return json_last_error() === JSON_ERROR_NONE;
+}
