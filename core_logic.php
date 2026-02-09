@@ -522,3 +522,8 @@ function retry(callable $fn, int $times=3): mixed {
     while ($times--) { try { return $fn(); } catch(\Throwable $e) { $last=$e; } }
     throw $last;
 }
+
+<?php
+function truncate(string $str, int $len=100): string {
+    return mb_strlen($str) <= $len ? $str : mb_substr($str,0,$len).'...';
+}
