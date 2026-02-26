@@ -572,3 +572,10 @@ function retry(callable $fn, int $times=3): mixed {
 function env(string $key, mixed $default=null): mixed {
     return $_ENV[$key] ?? getenv($key) ?: $default;
 }
+
+<?php
+function retry(callable $fn, int $times=3): mixed {
+    $last=null;
+    while ($times--) { try { return $fn(); } catch(\Throwable $e) { $last=$e; } }
+    throw $last;
+}
