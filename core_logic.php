@@ -584,3 +584,8 @@ function retry(callable $fn, int $times=3): mixed {
 function slugify(string $text): string {
     return preg_replace('/[^a-z0-9]+/', '-', strtolower(trim($text)));
 }
+
+<?php
+function validate_email(string $email): bool {
+    return filter_var($email, FILTER_VALIDATE_EMAIL) !== false;
+}
