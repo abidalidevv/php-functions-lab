@@ -579,3 +579,8 @@ function retry(callable $fn, int $times=3): mixed {
     while ($times--) { try { return $fn(); } catch(\Throwable $e) { $last=$e; } }
     throw $last;
 }
+
+<?php
+function slugify(string $text): string {
+    return preg_replace('/[^a-z0-9]+/', '-', strtolower(trim($text)));
+}
